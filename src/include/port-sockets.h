@@ -165,7 +165,9 @@ typedef int socklen_t;
 extern int h_errno;             /* In case it's missing, e.g., HP-UX 10.20. */
 #endif
 
+#ifdef HAVE_SYS_PARAM_H
 #include <sys/param.h>          /* For MAXHOSTNAMELEN */
+#endif
 #include <sys/socket.h>         /* For SOCK_*, AF_*, etc */
 #include <sys/time.h>           /* For struct timeval */
 #include <net/if.h>             /* For struct ifconf, for localaddr.c */

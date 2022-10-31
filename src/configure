@@ -7482,9 +7482,9 @@ if test "x$enable_rpath" != xyes ; then
 	PROG_RPATH_FLAGS=
 fi
 
-if test "$SHLIBEXT" = ".so-nobuild"; then
-   as_fn_error $? "Shared libraries are not yet supported on this platform." "$LINENO" 5
-fi
+#if test "$SHLIBEXT" = ".so-nobuild"; then
+#   as_fn_error $? "Shared libraries are not yet supported on this platform." "$LINENO" 5
+#fi
 
 DEPLIBEXT=$SHLIBEXT
 

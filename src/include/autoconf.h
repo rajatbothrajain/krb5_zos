@@ -1,1 +1,758 @@
-a\@‰•ƒ“¤„…a¤£–ƒ–•†KˆK@@Ç…•…™£…„@†™–”@¤£–ƒ–•†KˆK‰•@‚¨@ƒ–•†‰‡¤™…K@@\aa\@‰•ƒ“¤„…a¤£–ƒ–•†KˆK‰•K@@Ç…•…™£…„@†™–”@ƒ–•†‰‡¤™…Kƒ@‚¨@¤£–ˆ…„…™K@@\a{‰†•„…†@ÒÙÂõmÁäãÖÃÖÕÆmÈ{„…†‰•…@ÒÙÂõmÁäãÖÃÖÕÆmÈa\@Ä…†‰•…@‰†@ÁÅâ`ÕÉ@¢¤——–™£@‰¢@…•‚“…„@\aa\@{¤•„…†@ÁÅâÕÉ@\aa\@Ä…†‰•…@‰†@¢–ƒ’…£@ƒ•}£@‚…@‚–¤•„@£–@ğKğKğKğ@\aa\@{¤•„…†@ÂÙÖÒÅÕmâãÙÅÁÔâmâÖÃÒÅãâ@\aa\@Ä…†‰•…@‰†@¥m“‰¢£@–‚‘…ƒ£¢@ƒ•@‚…@¢‰”—“¨@ƒ–—‰…„@‚¨@¢¢‰‡•”…•£K@\aa\@{¤•„…†@ÃÁÕmÃÖ×èmåÁmÓÉâã@\aa\@Ä…†‰•…@£–@™…„¤ƒ…@ƒ–„…@¢‰©…@…¥…•@‰†@‰£@”…•¢@”–™…@ƒ—¤@¤¢‡…@\aa\@{¤•„…†@ÃÖÕÆÉÇmâÔÁÓÓ@\aa\@Ä…†‰•…@‰†@mm££™‰‚¤£…mmMMƒ–•¢£™¤ƒ£–™]]@¦–™’¢@\a{„…†‰•…@ÃÖÕâãÙäÃãÖÙmÁããÙmæÖÙÒâ@ña\@Ä…†‰•…@£–@¤¢…@Ö—…•ââÓ@ƒ™¨—£–@“‰‚™™¨@\aa\@{¤•„…†@ÃÙè×ãÖmÖ×ÅÕââÓ@\aa\@Ä…†‰•…@£–@„…†¤“£@ƒƒƒˆ…@•”…@\a{„…†‰•…@ÄÅÆÃÃÕÁÔÅ@ÆÉÓÅza£”—a’™‚õƒƒmlÀ¤‰„Ğa\@Ä…†‰•…@£–@„…†¤“£@ƒ“‰…•£@’…¨£‚@•”…@\a{„…†‰•…@ÄÅÆÃÒãÕÁÔÅ@ÆÉÓÅza™¢¤¢™a™–ƒ’…£a¥™a’™‚õa¤¢…™alÀ…¤‰„Ğaƒ“‰…•£K’…¨£‚a\@Ä…†‰•…@£–@„…†¤“£@’…¨£‚@•”…@\a{„…†‰•…@ÄÅÆÒãÕÁÔÅ@ÆÉÓÅza…£ƒa’™‚õK’…¨£‚a\@Ä…†‰•…@‰†@“‰‚™™¨@‰•‰£‰“‰©£‰–•@¢ˆ–¤“„@‚…@„…“¨…„@¤•£‰“@†‰™¢£@¤¢…@\a{„…†‰•…@ÄÅÓÁèmÉÕÉãÉÁÓÉéÅÙ@ña\@Ä…†‰•…@‰†@mm££™‰‚¤£…mmMM„…¢£™¤ƒ£–™]]@¦–™’¢@\a{„…†‰•…@ÄÅâãÙäÃãÖÙmÁããÙmæÖÙÒâ@ña\@Ä…†‰•…@£–@„‰¢‚“…@×ÒÉÕÉã@—“¤‡‰•@¢¤——–™£@\a{„…†‰•…@ÄÉâÁÂÓÅm×ÒÉÕÉã@ña\@Ä…†‰•…@‰†@ÓÄÁ×@ÒÄÂ@¢¤——–™£@¦‰£ˆ‰•@£ˆ…@Ò…™‚…™–¢@“‰‚™™¨@M”‰•“¨@ÁâÕKñ@ƒ–„…]@@@¢ˆ–¤“„@‚…@…•‚“…„K@\aa\@{¤•„…†@ÅÕÁÂÓÅmÓÄÁ×@\aa\@Ä…†‰•…@‰†@£™•¢“£‰–•@†¤•ƒ£‰–•¢@¢ˆ–¤“„@‚…@¤¢…„K@\aa\@{¤•„…†@ÅÕÁÂÓÅmÕÓâ@\aa\@Ä…†‰•…@‰†@£ˆ™…„@¢¤——–™£@…•‚“…„@\a{„…†‰•…@ÅÕÁÂÓÅmãÈÙÅÁÄâ@ña\@Ä…†‰•…@¢@™…£¤™•@£¨—…@–†@…•„™—ƒ…•£@\a{„…†‰•…@ÅÕÄÙ×ÃÅÕãmãè×Å@¥–‰„a\@Ä…†‰•…@£–@£ˆ…@£¨—…@–†@…“…”…•£¢@‰•@£ˆ…@™™¨@¢…£@‚¨@y‡…£‡™–¤—¢}K@ä¢¤““¨@@@£ˆ‰¢@‰¢@…‰£ˆ…™@y‰•£}@–™@y‡‰„m£}K@\a{„…†‰•…@ÇÅãÇÙÖä×âmã@‡‰„m£a\@Ä…†‰•…@‰†@‡…£ˆ–¢£‚¨•”…m™@™…£¤™•¢@‰•£@™£ˆ…™@£ˆ•@¢£™¤ƒ£@ˆ–¢£…•£@\@\a{„…†‰•…@ÇÅãÈÖâãÂèÕÁÔÅmÙmÙÅãäÙÕâmÉÕã@ña\@ã¨—…@–†@‡…£—……™•”…@¢…ƒ–•„@™‡¤”…•£K@\a{„…†‰•…@ÇÅã×ÅÅÙÕÁÔÅmÁÙÇómãè×Å@ÇÅãâÖÃÒÕÁÔÅmÁÙÇómãè×Åa\@Ä…†‰•…@‰†@‡…£—¦•”m™@…§‰¢£¢@‚¤£@£’…¢@–•“¨@ô@™‡¤”…•£¢@M…K‡Kk@×ÖâÉç@„™†£@ö@@@‰”—“…”…•££‰–•¢@“‰’…@¢–”…@â–“™‰¢@™…“…¢…¢]K@\aa\@{¤•„…†@ÇÅã×æÕÁÔmÙmômÁÙÇâ@\aa\@Ä…†‰•…@‰†@‡…£—¦•”m™@™…£¤™•¢@•@‰•£@\a{„…†‰•…@ÇÅã×æÕÁÔmÙmÙÅãäÙÕâmÉÕã@ña\@Ä…†‰•…@‰†@‡…£—¦¤‰„m™@…§‰¢£¢@‚¤£@£’…¢@–•“¨@ô@™‡¤”…•£¢@M…K‡Kk@×ÖâÉç@„™†£@ö@@@‰”—“…”…•££‰–•¢@“‰’…@¢–”…@â–“™‰¢@™…“…¢…¢]K@\aa\@{¤•„…†@ÇÅã×æäÉÄmÙmômÁÙÇâ@\aa\@Ä…†‰•…@‰†@‡…£¢…™¥‚¨•”…m™@™…£¤™•¢@‰•£@™£ˆ…™@£ˆ•@¢£™¤ƒ£@¢…™¥…•£@\@\aa\@{¤•„…†@ÇÅãâÅÙåÂèÕÁÔÅmÙmÙÅãäÙÕâmÉÕã@\aa\@ã¨—…@–†@—–‰•£…™@£™‡…£@†–™@™‡¤”…•£@ó@£–@‡…£¢–ƒ’•”…@\a{„…†‰•…@ÇÅãâÖÃÒÕÁÔÅmÁÙÇómãè×Å@¢–ƒ’“…•m£a\@Ä…†‰•…@‰†@‡”£‰”…m™@™…£¤™•¢@‰•£@‰•¢£…„@–†@¢£™¤ƒ£@£”@—–‰•£…™k@¢@–•@–“„@@@È×`äç@¢¨¢£…”¢K@\aa\@{¤•„…†@ÇÔãÉÔÅmÙmÙÅãäÙÕâmÉÕã@\aa\@Ä…†‰•…@‰†@¥mƒ–—¨@”ƒ™–@–™@†¤•ƒ£‰–•@‰¢@¥‰“‚“…K@\a{„…†‰•…@ÈÁâmåÁmÃÖ×è@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@yƒƒ…¢¢}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÁÃÃÅââ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L““–ƒKˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÁÓÓÖÃÁmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L™—a‰•…£Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÁÙ×ÁmÉÕÅãmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‚¢¦—ñö}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÂâæÁ×ñö@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‚¢¦—öô}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÂâæÁ×öô@\aa\@Ä…†‰•…@£–@ñ@‰†@‚¢¦—mñö@‰¢@¥‰“‚“…@¥‰@‚¨£…¢¦—Kˆ@\aa\@{¤•„…†@ÈÁåÅmÂâæÁ×mñö@\aa\@Ä…†‰•…@£–@ñ@‰†@‚¢¦—möô@‰¢@¥‰“‚“…@¥‰@‚¨£…¢¦—Kˆ@\aa\@{¤•„…†@ÈÁåÅmÂâæÁ×möô@\aa\@Ä…†‰•…@‰†@‚£m™¢…˜@‰¢@¥‰“‚“…k@†–™@™…ƒ¤™¢‰¥…@‚£™……@£™¥…™¢“K@\a{„…†‰•…@ÈÁåÅmÂãmÙâÅØ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L‚¨£…¢¦—Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÂèãÅâæÁ×mÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@yƒˆ”–„}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÃÈÔÖÄ@ña\@Ä…†‰•…@‰†@ƒ”–ƒ’@“‰‚™™¨@‰¢@¥‰“‚“…K@\aa\@{¤•„…†@ÈÁåÅmÃÔÖÃÒÁ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@yƒ–”—‰“…}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÃÖÔ×ÉÓÅ@\aa\@Ä…†‰•…@‰†@ƒ–”m…™™@ˆ¢@ƒ–”—£‰‚“…@‡…££…§£@¢¤——–™£@\a{„…†‰•…@ÈÁåÅmÃÖÔmÅÙÙmÉÕãÓ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@Lƒ—¤‰„Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÃ×äÉÄmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y„…”–•}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÄÁÅÔÖÕ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@„…ƒ“™£‰–•@–†@y¢£™…™™–™m™}k@•„@£–@ğ@‰†@¨–¤@@@„–•}£K@\a{„…†‰•…@ÈÁåÅmÄÅÃÓmâãÙÅÙÙÖÙmÙ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L„‰™…•£Kˆn@ˆ…„…™@†‰“…k@•„@‰£@„…†‰•…¢@yÄÉÙ}K@@@\a{„…†‰•…@ÈÁåÅmÄÉÙÅÕãmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L„“†ƒ•Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÄÓÆÃÕmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y„•m¢’‰—•”…}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÄÕmâÒÉ×ÕÁÔÅ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L…•„‰•Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÅÕÄÉÁÕmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L…™™•–Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÅÙÙÕÖmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@yÅå×m×ÒÅèm‡…£m‚•m—™”}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÅå×m×ÒÅèmÇÅãmÂÕm×ÁÙÁÔ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y…§—“‰ƒ‰£m‚©…™–}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÅç×ÓÉÃÉãmÂéÅÙÖ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y…§—“‰ƒ‰£m”…”¢…£}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÅç×ÓÉÃÉãmÔÅÔâÅã@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y†ƒˆ”–„}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÆÃÈÔÖÄ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L†ƒ•£“Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÆÃÕãÓmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y†“–ƒ’}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÆÓÖÃÒ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y†•”£ƒˆ}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÆÕÔÁãÃÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L†•”£ƒˆKˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÆÕÔÁãÃÈmÈ@ña\@Ä…†‰•…@‰†@¨–¤@ˆ¥…@£ˆ…@‡…£„„™‰•†–@†¤•ƒ£‰–•@\a{„…†‰•…@ÈÁåÅmÇÅãÁÄÄÙÉÕÆÖ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‡…£ƒ¦„}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÇÅãÃæÄ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‡…£…•¥}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÇÅãÅÕå@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‡…£…¤‰„}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÇÅãÅäÉÄ@ña\@Ä…†‰•…@‰†@‡…£ˆ–¢£‚¨•”…m™@…§‰¢£¢@•„@‰£¢@™…£¤™•@£¨—…@‰¢@’•–¦•@\aa\@{¤•„…†@ÈÁåÅmÇÅãÈÖâãÂèÕÁÔÅmÙ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‡…£•”…‰•†–}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÇÅãÕÁÔÅÉÕÆÖ@ña\@Ä…†‰•…@‰†@¢¨¢£…”@‡…£–—£@¢ˆ–¤“„@‚…@¤¢…„K@\a{„…†‰•…@ÈÁåÅmÇÅãÖ×ã@ña\@Ä…†‰•…@‰†@¢¨¢£…”@‡…£–—£m“–•‡@¢ˆ–¤“„@‚…@¤¢…„K@\aa\@{¤•„…†@ÈÁåÅmÇÅãÖ×ãmÓÖÕÇ@\aa\@Ä…†‰•…@‰†@‡…£—¦•”m™@‰¢@¥‰“‚“…@•„@¤¢…†¤“K@\a{„…†‰•…@ÈÁåÅmÇÅã×æÕÁÔmÙ@ña\@Ä…†‰•…@‰†@‡…£—¦¤‰„m™@‰¢@¥‰“‚“…@•„@¤¢…†¤“K@\a{„…†‰•…@ÈÁåÅmÇÅã×æäÉÄmÙ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‡…£™…¢‡‰„}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÇÅãÙÅâÇÉÄ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‡…£™…¢¤‰„}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÇÅãÙÅâäÉÄ@\aa\@Ä…†‰•…@‰†@‡…£¢…™¥‚¨•”…m™@…§‰¢£¢@•„@‰£¢@™…£¤™•@£¨—…@‰¢@’•–¦•@\aa\@{¤•„…†@ÈÁåÅmÇÅãâÅÙåÂèÕÁÔÅmÙ@\aa\@È¥…@£ˆ…@‡…££‰”…–†„¨@†¤•ƒ£‰–•@\a{„…†‰•…@ÈÁåÅmÇÅããÉÔÅÖÆÄÁè@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‡…£¤¢…™¢ˆ…““}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÇÅãäâÅÙâÈÅÓÓ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‡”£‰”…m™}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÇÔãÉÔÅmÙ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L‰†„„™¢Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÉÆÁÄÄÙâmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‰•…£m•£–—}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÉÕÅãmÕãÖ×@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y‰•…£m—£–•}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÉÕÅãm×ãÖÕ@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y‰•£ñöm£}K@\a{„…†‰•…@ÈÁåÅmÉÕãñömã@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y‰•£óòm£}K@\a{„…†‰•…@ÈÁåÅmÉÕãóòmã@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y‰•£øm£}K@\a{„…†‰•…@ÈÁåÅmÉÕãømã@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L‰•££¨—…¢Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÉÕããè×ÅâmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L’…¨¤£‰“¢Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÒÅèäãÉÓâmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L“‚…™Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÓÂÅÙmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L“„—Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÓÄÁ×mÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@yƒ™¨—£–}@“‰‚™™¨@M`“ƒ™¨—£–]K@\aa\@{¤•„…†@ÈÁåÅmÓÉÂÃÙè×ãÖ@\aa\@Ä…†‰•…@‰†@‚¤‰“„‰•‡@¦‰£ˆ@“‰‚…„‰£K@\aa\@{¤•„…†@ÈÁåÅmÓÉÂÅÄÉã@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y•¢“}@“‰‚™™¨@M`“•¢“]K@\aa\@{¤•„…†@ÈÁåÅmÓÉÂÕâÓ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y™…¢–“¥}@“‰‚™™¨@M`“™…¢–“¥]K@\aa\@{¤•„…†@ÈÁåÅmÓÉÂÙÅâÖÓå@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢–ƒ’…£}@“‰‚™™¨@M`“¢–ƒ’…£]K@\aa\@{¤•„…†@ÈÁåÅmÓÉÂâÖÃÒÅã@\aa\@Ä…†‰•…@‰†@£ˆ…@¤£‰“@“‰‚™™¨@‰¢@¥‰“‚“…@\aa\@{¤•„…†@ÈÁåÅmÓÉÂäãÉÓ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L“‰”‰£¢Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÓÉÔÉãâmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y“–ƒ“£‰”…m™}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÓÖÃÁÓãÉÔÅmÙ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L”ƒˆ‰•…a‚¨£…m–™„…™Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÔÁÃÈÉÕÅmÂèãÅmÖÙÄÅÙmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L”ƒˆ‰•…a…•„‰•Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÔÁÃÈÉÕÅmÅÕÄÉÁÕmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L”…”–™¨Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÔÅÔÖÙèmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y”’¢£…”—}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÔÒâãÅÔ×@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L•„‰™Kˆn@ˆ…„…™@†‰“…k@•„@‰£@„…†‰•…¢@yÄÉÙ}K@\aa\@{¤•„…†@ÈÁåÅmÕÄÉÙmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L•…£„‚Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÕÅãÄÂmÈ@ña\@Ä…†‰•…@‰†@•…£„‚Kˆ@„…ƒ“™…¢@ˆm…™™•–@\a{„…†‰•…@ÈÁåÅmÕÅãÄÂmÈmÈmÅÙÙÕÖ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L•…£‰•…£a‰•Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÕÅãÉÕÅãmÉÕmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y•¢m‰•‰£—™¢…}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÕâmÉÕÉã×ÁÙâÅ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y•¢m•”…m¤•ƒ–”—™…¢¢}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÕâmÕÁÔÅmäÕÃÖÔ×ÙÅââ@\aa\@Ä…†‰•…@‰†@Ö—…•ââÓ@¢¤——–™£¢@ƒ”¢K@\aa\@{¤•„…†@ÈÁåÅmÖ×ÅÕââÓmÃÔâ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L—£ˆ¢Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅm×ÁãÈâmÈ@\aa\@Ä…†‰•…@‰†@—…™¢‰¢£…•£@’…¨™‰•‡¢@™…@¢¤——–™£…„@\aa\@{¤•„…†@ÈÁåÅm×ÅÙâÉâãÅÕãmÒÅèÙÉÕÇ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L—–““Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅm×ÖÓÓmÈ@ña\@Ä…†‰•…@‰†@{—™‡”@¦…’@™…†…™…•ƒ…¢@¦–™’@\aa\@{¤•„…†@ÈÁåÅm×ÙÁÇÔÁmæÅÁÒmÙÅÆ@\aa\@Ä…†‰•…@‰†@¨–¤@ˆ¥…@×ÖâÉç@£ˆ™…„¢@“‰‚™™‰…¢@•„@ˆ…„…™@†‰“…¢K@\a{„…†‰•…@ÈÁåÅm×ãÈÙÅÁÄ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y—£ˆ™…„m–•ƒ…}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅm×ãÈÙÅÁÄmÖÕÃÅ@ña\@È¥…@×ãÈÙÅÁÄm×ÙÉÖmÉÕÈÅÙÉãK@\aa\@{¤•„…†@ÈÁåÅm×ãÈÙÅÁÄm×ÙÉÖmÉÕÈÅÙÉã@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y—£ˆ™…„m™¦“–ƒ’m‰•‰£}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅm×ãÈÙÅÁÄmÙæÓÖÃÒmÉÕÉã@ña\@Ä…†‰•…@‰†@—£ˆ™…„m™¦“–ƒ’m‰•‰£@‰¢@—™–¥‰„…„@‰•@£ˆ…@£ˆ™…„@“‰‚™™¨K@\a{„…†‰•…@ÈÁåÅm×ãÈÙÅÁÄmÙæÓÖÃÒmÉÕÉãmÉÕmãÈÙÅÁÄmÓÉÂ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L—¦„Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅm×æÄmÈ@ña\@Ä…†‰•…@‰†@‚¤‰“„‰•‡@¦‰£ˆ@ÇÕä@Ù…„“‰•…K@\aa\@{¤•„…†@ÈÁåÅmÙÅÁÄÓÉÕÅ@\aa\@Ä…†‰•…@‰†@™…‡ƒ–”—@…§‰¢£¢@•„@†¤•ƒ£‰–•¢@\a{„…†‰•…@ÈÁåÅmÙÅÇÃÖÔ×@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y™…‡…§…ƒ}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmÙÅÇÅçÅÃ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L™…‡…§—™Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmÙÅÇÅç×ÙmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L™…‡…§Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmÙÅÇÅçmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y™…¢m•ƒ“–¢…}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÙÅâmÕÃÓÖâÅ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y™…¢m•„…¢£™–¨}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÙÅâmÕÄÅâãÙÖè@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y™…¢m•‰•‰£}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÙÅâmÕÉÕÉã@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y™…¢m•¢…™ƒˆ}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÙÅâmÕâÅÁÙÃÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y™…¢m¢…™ƒˆ}@†¤•ƒ£‰–•@\a{„…†‰•…@ÈÁåÅmÙÅâmâÅÁÙÃÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y™…mƒ–”—}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÙÅmÃÖÔ×@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y™…m…§…ƒ}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmÙÅmÅçÅÃ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¢“a¢¢“Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmâÁâÓmâÁâÓmÈ@\aa\@Ä…†‰•…@‰†@¢£™¤ƒ£@¢–ƒ’„„™@ƒ–•£‰•¢@¢m“…•@\a{„…†‰•…@ÈÁåÅmâÁmÓÅÕ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢…ƒ¤™…m‡…£…•¥}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmâÅÃäÙÅmÇÅãÅÕå@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢…£…‡‰„}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâÅãÅÇÉÄ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢…£…•¥}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâÅãÅÕå@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢…£…¤‰„}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâÅãÅäÉÄ@ña\@Ä…†‰•…@‰†@¢…£“¤‰„@—™–¥‰„…„@‰•@ÖâÆañ@¢…ƒ¤™‰£¨@“‰‚™™¨@\aa\@{¤•„…†@ÈÁåÅmâÅãÓäÉÄ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢…£™…‡‰„}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâÅãÙÅÇÉÄ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢…£™…¢‡‰„}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmâÅãÙÅâÇÉÄ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢…£™…¢¤‰„}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmâÅãÙÅâäÉÄ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢…£™…¤‰„}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâÅãÙÅäÉÄ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢…£¢‰„}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâÅãâÉÄ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢…£¥‚¤†}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâÅãåÂäÆ@ña\@Ä…†‰•…@‰†@£ˆ…™…@‰¢@@¢–ƒ’“…•m£@£¨—…K@É†@•–£k@—™–‚‚“¨@¤¢…@¢‰©…m£@\a{„…†‰•…@ÈÁåÅmâÖÃÒÓÅÕmã@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢™•„}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâÙÁÕÄ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢™•„ôø}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâÙÁÕÄôø@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢™•„–”}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâÙÁÕÄÖÔ@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¢¢‰©…m£}K@\a{„…†‰•…@ÈÁåÅmââÉéÅmã@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢££}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâãÁã@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢£„„…†Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâãÄÄÅÆmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢£„‰•£Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâãÄÉÕãmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢£„“‰‚Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâãÄÓÉÂmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢£…—}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmâãÅ×@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢£™ƒˆ™}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâãÙÃÈÙ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢£™„¤—}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâãÙÄä×@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢£™…™™–™}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâãÙÅÙÙÖÙ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢£™…™™–™m™}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâãÙÅÙÙÖÙmÙ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢£™‰•‡¢Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâãÙÉÕÇâmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢£™‰•‡Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâãÙÉÕÇmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢£™“ƒ—¨}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmâãÙÓÃ×è@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¢£™—£‰”…}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmâãÙ×ãÉÔÅ@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¢£™¤ƒ£@ƒ”¢‡ˆ„™}K@\a{„…†‰•…@ÈÁåÅmâãÙäÃãmÃÔâÇÈÄÙ@ña\@Ä…†‰•…@‰†@£ˆ…™…@‰¢@@¢£™¤ƒ£@‰†m“„„™ƒ–•†K@\aa\@{¤•„…†@ÈÁåÅmâãÙäÃãmÉÆmÓÁÄÄÙÃÖÕÆ@\aa\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¢£™¤ƒ£@‰•öm—’£‰•†–}K@\a{„…†‰•…@ÈÁåÅmâãÙäÃãmÉÕöm×ÒãÉÕÆÖ@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¢£™¤ƒ£@‰•m—’£‰•†–}K@\aa\@{¤•„…†@ÈÁåÅmâãÙäÃãmÉÕm×ÒãÉÕÆÖ@\aa\@Ä…†‰•…@‰†@£ˆ…™…@‰¢@@¢£™¤ƒ£@“‰†ƒ–•†K@\aa\@{¤•„…†@ÈÁåÅmâãÙäÃãmÓÉÆÃÖÕÆ@\aa\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¢£™¤ƒ£@™£m”¢‡ˆ„™}K@\aa\@{¤•„…†@ÈÁåÅmâãÙäÃãmÙãmÔâÇÈÄÙ@\aa\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¢£™¤ƒ£@¢–ƒ’„„™m¢£–™‡…}K@\a{„…†‰•…@ÈÁåÅmâãÙäÃãmâÖÃÒÁÄÄÙmâãÖÙÁÇÅ@ña\@Ä…†‰•…@£–@ñ@‰†@y¢£m”£‰”…•¢…ƒ}@‰¢@@”…”‚…™@–†@y¢£™¤ƒ£@¢££}K@\aa\@{¤•„…†@ÈÁåÅmâãÙäÃãmâãÁãmâãmÔãÉÔÅÕâÅÃ@\aa\@Ä…†‰•…@£–@ñ@‰†@y¢£m”£‰”…¢—…ƒK£¥m•¢…ƒ}@‰¢@@”…”‚…™@–†@y¢£™¤ƒ£@¢££}K@\aa\@{¤•„…†@ÈÁåÅmâãÙäÃãmâãÁãmâãmÔãÉÔÅâ×ÅÃmãåmÕâÅÃ@\aa\@Ä…†‰•…@£–@ñ@‰†@y¢£m”£‰”K£¥m•¢…ƒ}@‰¢@@”…”‚…™@–†@y¢£™¤ƒ£@¢££}K@\aa\@{¤•„…†@ÈÁåÅmâãÙäÃãmâãÁãmâãmÔãÉÔmãåmÕâÅÃ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a‚¢¦—Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmâèâmÂâæÁ×mÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a„‰™Kˆn@ˆ…„…™@†‰“…k@•„@‰£@„…†‰•…¢@yÄÉÙ}K@@@\aa\@{¤•„…†@ÈÁåÅmâèâmÄÉÙmÈ@\aa\@Ä…†‰•…@‰†@¢¨¢m…™™“‰¢£@‰•@“‰‚ƒ@\aa\@{¤•„…†@ÈÁåÅmâèâmÅÙÙÓÉâã@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a†‰“…Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâèâmÆÉÓÅmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a†‰“‰–Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmâèâmÆÉÓÉÖmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a•„‰™Kˆn@ˆ…„…™@†‰“…k@•„@‰£@„…†‰•…¢@yÄÉÙ}K@@@\aa\@{¤•„…†@ÈÁåÅmâèâmÕÄÉÙmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a—™”Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmâèâm×ÁÙÁÔmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a¢…“…ƒ£Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâèâmâÅÓÅÃãmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a¢–ƒ’…£Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâèâmâÖÃÒÅãmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a¢–ƒ’‰–Kˆn@ˆ…„…™@†‰“…K@\aa\@{¤•„…†@ÈÁåÅmâèâmâÖÃÒÉÖmÈ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a¢££Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâèâmâãÁãmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a£‰”…Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâèâmãÉÔÅmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a£¨—…¢Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâèâmãè×ÅâmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¢¨¢a¤‰–Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmâèâmäÉÖmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y£‰”…‡”}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmãÉÔÅÇÔ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L£‰”…Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmãÉÔÅmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@L¤•‰¢£„Kˆn@ˆ…„…™@†‰“…K@\a{„…†‰•…@ÈÁåÅmäÕÉâãÄmÈ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¤•¢…£…•¥}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmäÕâÅãÅÕå@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¤mƒˆ™}K@\a{„…†‰•…@ÈÁåÅmämÃÈÁÙ@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¤m‰•£}K@\a{„…†‰•…@ÈÁåÅmämÉÕã@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¤m‰•£ñöm£}K@\aa\@{¤•„…†@ÈÁåÅmämÉÕãñömã@\aa\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¤m‰•£óòm£}K@\aa\@{¤•„…†@ÈÁåÅmämÉÕãóòmã@\aa\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¤m‰•£øm£}K@\aa\@{¤•„…†@ÈÁåÅmämÉÕãømã@\aa\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@y¤m“–•‡}K@\a{„…†‰•…@ÈÁåÅmämÓÖÕÇ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¥¢—™‰•£†}@†¤•ƒ£‰–•K@\aa\@{¤•„…†@ÈÁåÅmåÁâ×ÙÉÕãÆ@\aa\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¥¢•—™‰•£†}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmåâÕ×ÙÉÕãÆ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@y¥¢—™‰•£†}@†¤•ƒ£‰–•K@\a{„…†‰•…@ÈÁåÅmåâ×ÙÉÕãÆ@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@ymm‰•£ñòøm£}K@\a{„…†‰•…@ÈÁåÅmmmÉÕãñòømã@ña\@Ä…†‰•…@£–@ñ@‰†@£ˆ…@¢¨¢£…”@ˆ¢@£ˆ…@£¨—…@ymm¤‰•£ñòøm£}K@\a{„…†‰•…@ÈÁåÅmmmäÉÕãñòømã@ña\@Ä…†‰•…@‰†@…™™•–Kˆ@„…ƒ“™…¢@—…™™–™@\aa\@{¤•„…†@ÈÄÙmÈÁâm×ÅÙÙÖÙ@\aa\@Ô¨@•……„@£–@‚…@„…†‰•…„@£–@…•‚“…@É×¥ö@¢¤——–™£k@†–™@…§”—“…@–•@ÉÙÉç@\aa\@{¤•„…†@ÉÕÅãö@\aa\@Ä…†‰•…@‰†@ÔÉã@×™–‘…ƒ£@Á£ˆ…•@„…†¤“£@ƒ–•†‰‡¤™£‰–•@¢ˆ–¤“„@‚…@¤¢…„@\aa\@{¤•„…†@ÒÙÂõmÁãÈÅÕÁmÃÖÔ×Áã@\aa\@Ä…†‰•…@†–™@ÄÕâ@¢¤——–™£@–†@“–ƒ£‰•‡@™…“”¢@•„@ÒÄÃ¢@\a{„…†‰•…@ÒÙÂõmÄÕâmÓÖÖÒä×@ña\@Ä…†‰•…@£–@…•‚“…@ÄÕâ@“––’¤—¢@–†@Ò…™‚…™–¢@™…“”@•”…¢@\aa\@{¤•„…†@ÒÙÂõmÄÕâmÓÖÖÒä×mÙÅÁÓÔ@\aa\@Ä…†‰•…@‰†@£ˆ…@ÒÄÃ@¢ˆ–¤“„@™…£¤™•@–•“¨@¥‡¤…@…™™–™@ƒ–„…¢@£–@ƒ“‰…•£¢@\aa\@{¤•„…†@ÒÙÂÃÖÕÆmåÁÇäÅmÅÙÙÖÙâ@\aa\@„…†‰•…@‰†@£ˆ…@¢¨¢£…”@ˆ…„…™@†‰“…¢@™…@”‰¢¢‰•‡@—™–£–£¨—…@†–™@„…”–•M]@\a{„…†‰•…@ÕÅÅÄmÄÁÅÔÖÕm×ÙÖãÖ@ña\@Ä…†‰•…@‰†@‰•ö„„™m•¨@‰¢@•–£@„…†‰•…„@‰•@“‰‚ƒ@\aa\@{¤•„…†@ÕÅÅÄmÉÕâÉçÁÄÄÙmÁÕè@\aa\@„…†‰•…@‰†@£ˆ…@¢¨¢£…”@ˆ…„…™@†‰“…¢@™…@”‰¢¢‰•‡@—™–£–£¨—…@†–™@@@¢¢m…§…ƒ¤£…mƒ–””•„M]@\aa\@{¤•„…†@ÕÅÅÄmââmÅçÅÃäãÅmÃÖÔÔÁÕÄm×ÙÖãÖ@\aa\@„…†‰•…@‰†@£ˆ…@¢¨¢£…”@ˆ…„…™@†‰“…¢@™…@”‰¢¢‰•‡@—™–£–£¨—…@†–™@¢£™—£‰”…M]@\aa\@{¤•„…†@ÕÅÅÄmâãÙ×ãÉÔÅm×ÙÖãÖ@\aa\@„…†‰•…@‰†@£ˆ…@¢¨¢£…”@ˆ…„…™@†‰“…¢@™…@”‰¢¢‰•‡@—™–£–£¨—…@†–™@¢¦‚M]@\aa\@{¤•„…†@ÕÅÅÄmâæÁÂm×ÙÖãÖ@\aa\@Ä…†‰•…@‰†@•……„@£–@„…ƒ“™…@¢¨¢m…™™“‰¢£@\aa\@{¤•„…†@ÕÅÅÄmâèâmÅÙÙÓÉâã@\aa\@„…†‰•…@‰†@£ˆ…@¢¨¢£…”@ˆ…„…™@†‰“…¢@™…@”‰¢¢‰•‡@—™–£–£¨—…@†–™@¥¢—™‰•£†M]@\aa\@{¤•„…†@ÕÅÅÄmåÁâ×ÙÉÕãÆm×ÙÖãÖ@\aa\@Ä…†‰•…@‰†@£ˆ…@ÒÄÃ@¢ˆ–¤“„@¤¢…@•–@“––’¢‰„…@ƒƒˆ…@\aa\@{¤•„…†@ÕÖÃÁÃÈÅ@\aa\@Ä…†‰•…@‰†@™…†…™…•ƒ…¢@£–@—£ˆ™…„@™–¤£‰•…¢@¢ˆ–¤“„@‚…@•–•`¦…’K@\aa\@{¤•„…†@ÕÖmæÅÁÒm×ãÈÙÅÁÄâ@\aa\@Ä…†‰•…@£–@£ˆ…@„„™…¢¢@¦ˆ…™…@‚¤‡@™…—–™£¢@†–™@£ˆ‰¢@—ƒ’‡…@¢ˆ–¤“„@‚…@¢…•£K@\a{„…†‰•…@×ÁÃÒÁÇÅmÂäÇÙÅ×ÖÙã@’™‚õ`‚¤‡¢|”‰£K…„¤a\@Ä…†‰•…@£–@£ˆ…@†¤““@•”…@–†@£ˆ‰¢@—ƒ’‡…K@\a{„…†‰•…@×ÁÃÒÁÇÅmÕÁÔÅ@Ò…™‚…™–¢@õa\@Ä…†‰•…@£–@£ˆ…@†¤““@•”…@•„@¥…™¢‰–•@–†@£ˆ‰¢@—ƒ’‡…K@\a{„…†‰•…@×ÁÃÒÁÇÅmâãÙÉÕÇ@Ò…™‚…™–¢@õ@ñKòğa\@Ä…†‰•…@£–@£ˆ…@–•…@¢¨”‚–“@¢ˆ–™£@•”…@–†@£ˆ‰¢@—ƒ’‡…K@\a{„…†‰•…@×ÁÃÒÁÇÅmãÁÙÕÁÔÅ@’™‚õa\@Ä…†‰•…@£–@£ˆ…@ˆ–”…@—‡…@†–™@£ˆ‰¢@—ƒ’‡…K@\a{„…†‰•…@×ÁÃÒÁÇÅmäÙÓ@a\@Ä…†‰•…@£–@£ˆ…@¥…™¢‰–•@–†@£ˆ‰¢@—ƒ’‡…K@\a{„…†‰•…@×ÁÃÒÁÇÅmåÅÙâÉÖÕ@ñKòğa\@Ä…†‰•…@‰†@¢…£‘”—@‰•„‰ƒ£…¢@×ÖâÉç@‰•£…™†ƒ…@\a{„…†‰•…@×ÖâÉçmâÅãÑÔ×@ña\@Ä…†‰•…@‰†@×ÖâÉç@¢‰‡•“@ˆ•„“‰•‡@‰¢@¤¢…„@\a{„…†‰•…@×ÖâÉçmâÉÇÕÁÓâ@ña\@Ä…†‰•…@‰†@£…™”‰–¢Kˆ@…§‰¢£¢@•„@£ƒ¢…£££™@…§‰¢£¢@\a{„…†‰•…@×ÖâÉçmãÅÙÔÉÖâ@ña\@Ä…†‰•…@£–@•…ƒ…¢¢™¨@¢¨”‚–“@‰†@£ˆ‰¢@ƒ–•¢£•£@¤¢…¢@@•–•`¢£•„™„@•”…@–•@@@¨–¤™@¢¨¢£…”K@\aa\@{¤•„…†@×ãÈÙÅÁÄmÃÙÅÁãÅmÑÖÉÕÁÂÓÅ@\aa\@Ä…†‰•…@¢@™…£¤™•@£¨—…@–†@¢…£™—ƒ…•£@\a{„…†‰•…@âÅãÙ×ÃÅÕãmãè×Å@¥–‰„a\@ãˆ…@¢‰©…@–†@y¢‰©…m£}k@¢@ƒ–”—¤£…„@‚¨@¢‰©…–†K@\a{„…†‰•…@âÉéÅÖÆmâÉéÅmã@øa\@ãˆ…@¢‰©…@–†@y£‰”…m£}k@¢@ƒ–”—¤£…„@‚¨@¢‰©…–†K@\a{„…†‰•…@âÉéÅÖÆmãÉÔÅmã@øa\@Ä…†‰•…@£–@¤¢…@Ö—…•ââÓ@†–™@â×ÁÒÅ@—™…¤£ˆ@\aa\@{¤•„…†@â×ÁÒÅmÖ×ÅÕââÓ@\aa\@Ä…†‰•…@†–™@¢££‰ƒ@—“¤‡‰•@“‰•’‡…@\a{„…†‰•…@âãÁãÉÃm×ÓäÇÉÕâ@ña\@Ä…†‰•…@£–@ñ@‰†@¨–¤@ˆ¥…@£ˆ…@ÁÕâÉ@Ã@ˆ…„…™@†‰“…¢K@\a{„…†‰•…@âãÄÃmÈÅÁÄÅÙâ@ña\@Ä…†‰•…@£–@ñ@‰†@¢£™…™™–™m™@™…£¤™•¢@ƒˆ™@\K@\aa\@{¤•„…†@âãÙÅÙÙÖÙmÙmÃÈÁÙm×@\aa\@Ä…†‰•…@‰†@¢¨¢m…™™“‰¢£@‰¢@„…†‰•…„@‰•@…™™•–Kˆ@\aa\@{¤•„…†@âèâmÅÙÙÓÉâãmÄÅÃÓÁÙÅÄ@\aa\@Ä…†‰•…@‰†@•–@ãÓâ@‰”—“…”…•££‰–•@‰¢@¢…“…ƒ£…„@\a{„…†‰•…@ãÓâmÉÔ×ÓmÕÖÕÅ@ña\@Ä…†‰•…@‰†@ãÓâ@‰”—“…”…•££‰–•@‰¢@Ö—…•ââÓ@\aa\@{¤•„…†@ãÓâmÉÔ×ÓmÖ×ÅÕââÓ@\aa\@Ä…†‰•…@‰†@¨–¤@ˆ¥…@„‰™…•£Kˆ@†¤•ƒ£‰–•“‰£¨@\a{„…†‰•…@äâÅmÄÉÙÅÕãmÈ@ña\@Ä…†‰•…@‰†@„“–—…•@¢ˆ–¤“„@‚…@¤¢…„@\a{„…†‰•…@äâÅmÄÓÖ×ÅÕ@ña\@Ä…†‰•…@‰†@£ˆ…@’…¨™‰•‡@ƒƒƒˆ…@¢ˆ–¤“„@‚…@…•‚“…„@\aa\@{¤•„…†@äâÅmÒÅèÙÉÕÇmÃÃÁÃÈÅ@\aa\@Ä…†‰•…@‰†@“‰•’`£‰”…@–—£‰–•¢@†–™@“‰‚™™¨@†‰•“‰©£‰–•@¦‰““@‚…@¤¢…„@\aa\@{¤•„…†@äâÅmÓÉÕÒÅÙmÆÉÕÉmÖ×ãÉÖÕ@\aa\@Ä…†‰•…@‰†@“‰•’`£‰”…@–—£‰–•¢@†–™@“‰‚™™¨@‰•‰£‰“‰©£‰–•@¦‰““@‚…@¤¢…„@\aa\@{¤•„…†@äâÅmÓÉÕÒÅÙmÉÕÉãmÖ×ãÉÖÕ@\aa\@Ä…†‰•…@‰†@¢‰‡—™–ƒ”¢’@¢ˆ–¤“„@‚…@¤¢…„@\a{„…†‰•…@äâÅmâÉÇ×ÙÖÃÔÁâÒ@ña\@Ä…†‰•…@‰†@¦‰£@£’…¢@‰•£@¢@@™‡¤”…•£@\a{„…†‰•…@æÁÉãmäâÅâmÉÕã@ña\@Ä…†‰•…@£–@…•‚“…@…§£…•¢‰–•¢@‰•@‡“‰‚ƒ@\a{„…†‰•…@mÇÕämâÖäÙÃÅ@ña\@Ä…†‰•…@£–@…•‚“…@Ãññ@…§£…•¢‰–•¢@\a{„…†‰•…@mmâãÄÃmæÁÕãmÓÉÂmÅçãñmm@ña\@Ä…†‰•…@£–@…”—£¨@‰†@yƒ–•¢£}@„–…¢@•–£@ƒ–•†–™”@£–@ÁÕâÉ@ÃK@\aa\@{¤•„…†@ƒ–•¢£@\aa\@Ä…†‰•…@£–@y‰•£}@‰†@L¢¨¢a£¨—…¢Kˆn@„–…¢•}£@„…†‰•…K@\aa\@{¤•„…†@‡‰„m£@\aa\@Ä…†‰•…@£–@ymm‰•“‰•…mm}@–™@ymm‰•“‰•…}@‰†@£ˆ£}¢@¦ˆ£@£ˆ…@Ã@ƒ–”—‰“…™@@@ƒ““¢@‰£k@–™@£–@•–£ˆ‰•‡@‰†@}‰•“‰•…}@‰¢@•–£@¢¤——–™£…„@¤•„…™@•¨@•”…K@@\a{‰†•„…†@mmƒ—“¤¢—“¤¢a\@{¤•„…†@‰•“‰•…@\a{…•„‰†a\@Ä…†‰•…@£–@y‰•£}@‰†@L¢¨¢a£¨—…¢Kˆn@„–…¢@•–£@„…†‰•…K@\aa\@{¤•„…†@”–„…m£@\aa\@Ä…†‰•…@£–@y“–•‡@‰•£}@‰†@L¢¨¢a£¨—…¢Kˆn@„–…¢@•–£@„…†‰•…K@\aa\@{¤•„…†@–††m£@\aa\@Ä…†‰•…@£–@y“–•‡}@‰†@L¢¨¢a£¨—…¢Kˆn@„–…¢@•–£@„…†‰•…K@\aa\@{¤•„…†@£‰”…m£@\aa\@Ä…†‰•…@£–@y‰•£}@‰†@L¢¨¢a£¨—…¢Kˆn@„–…¢•}£@„…†‰•…K@\aa\@{¤•„…†@¤‰„m£@\a{‰†@„…†‰•…„MmmÇÕäÃmm]@PP@Z„…†‰•…„M‰•“‰•…]a\@â‰“…•ƒ…@‡ƒƒ@—…„•£‰ƒ@¦™•‰•‡¢@‚–¤£@ÁÕâÉ@ÃK@@\a{@„…†‰•…@‰•“‰•…@mm‰•“‰•…mm{…•„‰†{…•„‰†@a\@ÒÙÂõmÁäãÖÃÖÕÆmÈ@\a
+/* include/autoconf.h.  Generated from autoconf.h.in by configure.  */
+/* include/autoconf.h.in.  Generated from configure.ac by autoheader.  */
+
+
+#ifndef KRB5_AUTOCONF_H
+#define KRB5_AUTOCONF_H
+
+
+/* Define if AES-NI support is enabled */
+/* #undef AESNI */
+
+/* Define if socket can't be bound to 0.0.0.0 */
+/* #undef BROKEN_STREAMS_SOCKETS */
+
+/* Define if va_list objects can be simply copied by assignment. */
+/* #undef CAN_COPY_VA_LIST */
+
+/* Define to reduce code size even if it means more cpu usage */
+/* #undef CONFIG_SMALL */
+
+/* Define if __attribute__((constructor)) works */
+#define CONSTRUCTOR_ATTR_WORKS 1
+
+/* Define to use OpenSSL crypto library */
+/* #undef CRYPTO_OPENSSL */
+
+/* Define to default ccache name */
+#define DEFCCNAME "FILE:/tmp/krb5cc_%{uid}"
+
+/* Define to default client keytab name */
+#define DEFCKTNAME "FILE:/rsusr/rocket/var/krb5/user/%{euid}/client.keytab"
+
+/* Define to default keytab name */
+#define DEFKTNAME "FILE:/etc/krb5.keytab"
+
+/* Define if library initialization should be delayed until first use */
+#define DELAY_INITIALIZER 1
+
+/* Define if __attribute__((destructor)) works */
+#define DESTRUCTOR_ATTR_WORKS 1
+
+/* Define to disable PKINIT plugin support */
+#define DISABLE_PKINIT 1
+
+/* Define if LDAP KDB support within the Kerberos library (mainly ASN.1 code)
+   should be enabled. */
+/* #undef ENABLE_LDAP */
+
+/* Define if translation functions should be used. */
+/* #undef ENABLE_NLS */
+
+/* Define if thread support enabled */
+#define ENABLE_THREADS 1
+
+/* Define as return type of endrpcent */
+#define ENDRPCENT_TYPE void
+
+/* Define to the type of elements in the array set by `getgroups'. Usually
+   this is either `int' or `gid_t'. */
+#define GETGROUPS_T gid_t
+
+/* Define if gethostbyname_r returns int rather than struct hostent * */
+#define GETHOSTBYNAME_R_RETURNS_INT 1
+
+/* Type of getpeername second argument. */
+#define GETPEERNAME_ARG3_TYPE GETSOCKNAME_ARG3_TYPE
+
+/* Define if getpwnam_r exists but takes only 4 arguments (e.g., POSIX draft 6
+   implementations like some Solaris releases). */
+/* #undef GETPWNAM_R_4_ARGS */
+
+/* Define if getpwnam_r returns an int */
+#define GETPWNAM_R_RETURNS_INT 1
+
+/* Define if getpwuid_r exists but takes only 4 arguments (e.g., POSIX draft 6
+   implementations like some Solaris releases). */
+/* #undef GETPWUID_R_4_ARGS */
+
+/* Define if getservbyname_r returns int rather than struct servent * */
+/* #undef GETSERVBYNAME_R_RETURNS_INT */
+
+/* Type of pointer target for argument 3 to getsockname */
+#define GETSOCKNAME_ARG3_TYPE socklen_t
+
+/* Define if gmtime_r returns int instead of struct tm pointer, as on old
+   HP-UX systems. */
+/* #undef GMTIME_R_RETURNS_INT */
+
+/* Define if va_copy macro or function is available. */
+#define HAS_VA_COPY 1
+
+/* Define to 1 if you have the `access' function. */
+#define HAVE_ACCESS 1
+
+/* Define to 1 if you have the <alloca.h> header file. */
+/* #undef HAVE_ALLOCA_H */
+
+/* Define to 1 if you have the <arpa/inet.h> header file. */
+#define HAVE_ARPA_INET_H 1
+
+/* Define to 1 if you have the `bswap16' function. */
+/* #undef HAVE_BSWAP16 */
+
+/* Define to 1 if you have the `bswap64' function. */
+/* #undef HAVE_BSWAP64 */
+
+/* Define to 1 if bswap_16 is available via byteswap.h */
+/* #undef HAVE_BSWAP_16 */
+
+/* Define to 1 if bswap_64 is available via byteswap.h */
+/* #undef HAVE_BSWAP_64 */
+
+/* Define if bt_rseq is available, for recursive btree traversal. */
+#define HAVE_BT_RSEQ 1
+
+/* Define to 1 if you have the <byteswap.h> header file. */
+/* #undef HAVE_BYTESWAP_H */
+
+/* Define to 1 if you have the `chmod' function. */
+#define HAVE_CHMOD 1
+
+/* Define if cmocka library is available. */
+/* #undef HAVE_CMOCKA */
+
+/* Define to 1 if you have the `compile' function. */
+/* #undef HAVE_COMPILE */
+
+/* Define if com_err has compatible gettext support */
+#define HAVE_COM_ERR_INTL 1
+
+/* Define to 1 if you have the <cpuid.h> header file. */
+/* #undef HAVE_CPUID_H */
+
+/* Define to 1 if you have the `daemon' function. */
+/* #undef HAVE_DAEMON */
+
+/* Define to 1 if you have the declaration of `strerror_r', and to 0 if you
+   don't. */
+#define HAVE_DECL_STRERROR_R 1
+
+/* Define to 1 if you have the <dirent.h> header file, and it defines `DIR'.
+   */
+#define HAVE_DIRENT_H 1
+
+/* Define to 1 if you have the <dlfcn.h> header file. */
+#define HAVE_DLFCN_H 1
+
+/* Define to 1 if you have the `dn_skipname' function. */
+#define HAVE_DN_SKIPNAME 1
+
+/* Define to 1 if you have the <endian.h> header file. */
+/* #undef HAVE_ENDIAN_H */
+
+/* Define to 1 if you have the <errno.h> header file. */
+#define HAVE_ERRNO_H 1
+
+/* Define to 1 if you have the `EVP_PKEY_get_bn_param' function. */
+/* #undef HAVE_EVP_PKEY_GET_BN_PARAM */
+
+/* Define to 1 if you have the `explicit_bzero' function. */
+/* #undef HAVE_EXPLICIT_BZERO */
+
+/* Define to 1 if you have the `explicit_memset' function. */
+/* #undef HAVE_EXPLICIT_MEMSET */
+
+/* Define to 1 if you have the `fchmod' function. */
+#define HAVE_FCHMOD 1
+
+/* Define to 1 if you have the <fcntl.h> header file. */
+#define HAVE_FCNTL_H 1
+
+/* Define to 1 if you have the `flock' function. */
+/* #undef HAVE_FLOCK */
+
+/* Define to 1 if you have the `fnmatch' function. */
+#define HAVE_FNMATCH 1
+
+/* Define to 1 if you have the <fnmatch.h> header file. */
+#define HAVE_FNMATCH_H 1
+
+/* Define if you have the getaddrinfo function */
+#define HAVE_GETADDRINFO 1
+
+/* Define to 1 if you have the `getcwd' function. */
+#define HAVE_GETCWD 1
+
+/* Define to 1 if you have the `getenv' function. */
+#define HAVE_GETENV 1
+
+/* Define to 1 if you have the `geteuid' function. */
+#define HAVE_GETEUID 1
+
+/* Define if gethostbyname_r exists and its return type is known */
+/* #undef HAVE_GETHOSTBYNAME_R */
+
+/* Define to 1 if you have the `getnameinfo' function. */
+#define HAVE_GETNAMEINFO 1
+
+/* Define if system getopt should be used. */
+#define HAVE_GETOPT 1
+
+/* Define if system getopt_long should be used. */
+/* #undef HAVE_GETOPT_LONG */
+
+/* Define if getpwnam_r is available and useful. */
+#define HAVE_GETPWNAM_R 1
+
+/* Define if getpwuid_r is available and useful. */
+#define HAVE_GETPWUID_R 1
+
+/* Define to 1 if you have the `getresgid' function. */
+/* #undef HAVE_GETRESGID */
+
+/* Define to 1 if you have the `getresuid' function. */
+/* #undef HAVE_GETRESUID */
+
+/* Define if getservbyname_r exists and its return type is known */
+/* #undef HAVE_GETSERVBYNAME_R */
+
+/* Have the gettimeofday function */
+#define HAVE_GETTIMEOFDAY 1
+
+/* Define to 1 if you have the `getusershell' function. */
+/* #undef HAVE_GETUSERSHELL */
+
+/* Define to 1 if you have the `gmtime_r' function. */
+#define HAVE_GMTIME_R 1
+
+/* Define to 1 if you have the <ifaddrs.h> header file. */
+/* #undef HAVE_IFADDRS_H */
+
+/* Define to 1 if you have the `inet_ntop' function. */
+#define HAVE_INET_NTOP 1
+
+/* Define to 1 if you have the `inet_pton' function. */
+#define HAVE_INET_PTON 1
+
+/* Define to 1 if the system has the type `int16_t'. */
+#define HAVE_INT16_T 1
+
+/* Define to 1 if the system has the type `int32_t'. */
+#define HAVE_INT32_T 1
+
+/* Define to 1 if the system has the type `int8_t'. */
+#define HAVE_INT8_T 1
+
+/* Define to 1 if you have the <inttypes.h> header file. */
+#define HAVE_INTTYPES_H 1
+
+/* Define to 1 if you have the <keyutils.h> header file. */
+/* #undef HAVE_KEYUTILS_H */
+
+/* Define to 1 if you have the <lber.h> header file. */
+/* #undef HAVE_LBER_H */
+
+/* Define to 1 if you have the <ldap.h> header file. */
+/* #undef HAVE_LDAP_H */
+
+/* Define to 1 if you have the `crypto' library (-lcrypto). */
+/* #undef HAVE_LIBCRYPTO */
+
+/* Define if building with libedit. */
+/* #undef HAVE_LIBEDIT */
+
+/* Define to 1 if you have the `nsl' library (-lnsl). */
+/* #undef HAVE_LIBNSL */
+
+/* Define to 1 if you have the `resolv' library (-lresolv). */
+/* #undef HAVE_LIBRESOLV */
+
+/* Define to 1 if you have the `socket' library (-lsocket). */
+/* #undef HAVE_LIBSOCKET */
+
+/* Define if the util library is available */
+/* #undef HAVE_LIBUTIL */
+
+/* Define to 1 if you have the <limits.h> header file. */
+#define HAVE_LIMITS_H 1
+
+/* Define to 1 if you have the `localtime_r' function. */
+#define HAVE_LOCALTIME_R 1
+
+/* Define to 1 if you have the <machine/byte_order.h> header file. */
+/* #undef HAVE_MACHINE_BYTE_ORDER_H */
+
+/* Define to 1 if you have the <machine/endian.h> header file. */
+/* #undef HAVE_MACHINE_ENDIAN_H */
+
+/* Define to 1 if you have the <memory.h> header file. */
+#define HAVE_MEMORY_H 1
+
+/* Define to 1 if you have the `mkstemp' function. */
+#define HAVE_MKSTEMP 1
+
+/* Define to 1 if you have the <ndir.h> header file, and it defines `DIR'. */
+/* #undef HAVE_NDIR_H */
+
+/* Define to 1 if you have the <netdb.h> header file. */
+#define HAVE_NETDB_H 1
+
+/* Define if netdb.h declares h_errno */
+#define HAVE_NETDB_H_H_ERRNO 1
+
+/* Define to 1 if you have the <netinet/in.h> header file. */
+#define HAVE_NETINET_IN_H 1
+
+/* Define to 1 if you have the `ns_initparse' function. */
+/* #undef HAVE_NS_INITPARSE */
+
+/* Define to 1 if you have the `ns_name_uncompress' function. */
+/* #undef HAVE_NS_NAME_UNCOMPRESS */
+
+/* Define if OpenSSL supports cms. */
+/* #undef HAVE_OPENSSL_CMS */
+
+/* Define to 1 if you have the <paths.h> header file. */
+/* #undef HAVE_PATHS_H */
+
+/* Define if persistent keyrings are supported */
+/* #undef HAVE_PERSISTENT_KEYRING */
+
+/* Define to 1 if you have the <poll.h> header file. */
+#define HAVE_POLL_H 1
+
+/* Define if #pragma weak references work */
+/* #undef HAVE_PRAGMA_WEAK_REF */
+
+/* Define if you have POSIX threads libraries and header files. */
+#define HAVE_PTHREAD 1
+
+/* Define to 1 if you have the `pthread_once' function. */
+#define HAVE_PTHREAD_ONCE 1
+
+/* Have PTHREAD_PRIO_INHERIT. */
+/* #undef HAVE_PTHREAD_PRIO_INHERIT */
+
+/* Define to 1 if you have the `pthread_rwlock_init' function. */
+#define HAVE_PTHREAD_RWLOCK_INIT 1
+
+/* Define if pthread_rwlock_init is provided in the thread library. */
+#define HAVE_PTHREAD_RWLOCK_INIT_IN_THREAD_LIB 1
+
+/* Define to 1 if you have the <pwd.h> header file. */
+#define HAVE_PWD_H 1
+
+/* Define if building with GNU Readline. */
+/* #undef HAVE_READLINE */
+
+/* Define if regcomp exists and functions */
+#define HAVE_REGCOMP 1
+
+/* Define to 1 if you have the `regexec' function. */
+#define HAVE_REGEXEC 1
+
+/* Define to 1 if you have the <regexpr.h> header file. */
+/* #undef HAVE_REGEXPR_H */
+
+/* Define to 1 if you have the <regex.h> header file. */
+#define HAVE_REGEX_H 1
+
+/* Define to 1 if you have the `res_nclose' function. */
+/* #undef HAVE_RES_NCLOSE */
+
+/* Define to 1 if you have the `res_ndestroy' function. */
+/* #undef HAVE_RES_NDESTROY */
+
+/* Define to 1 if you have the `res_ninit' function. */
+/* #undef HAVE_RES_NINIT */
+
+/* Define to 1 if you have the `res_nsearch' function. */
+/* #undef HAVE_RES_NSEARCH */
+
+/* Define to 1 if you have the `res_search' function */
+#define HAVE_RES_SEARCH 1
+
+/* Define to 1 if you have the `re_comp' function. */
+/* #undef HAVE_RE_COMP */
+
+/* Define to 1 if you have the `re_exec' function. */
+/* #undef HAVE_RE_EXEC */
+
+/* Define to 1 if you have the <sasl/sasl.h> header file. */
+/* #undef HAVE_SASL_SASL_H */
+
+/* Define if struct sockaddr contains sa_len */
+#define HAVE_SA_LEN 1
+
+/* Define to 1 if you have the `secure_getenv' function. */
+/* #undef HAVE_SECURE_GETENV */
+
+/* Define to 1 if you have the `setegid' function. */
+/* #undef HAVE_SETEGID */
+
+/* Define to 1 if you have the `setenv' function. */
+#define HAVE_SETENV 1
+
+/* Define to 1 if you have the `seteuid' function. */
+#define HAVE_SETEUID 1
+
+/* Define if setluid provided in OSF/1 security library */
+/* #undef HAVE_SETLUID */
+
+/* Define to 1 if you have the `setregid' function. */
+#define HAVE_SETREGID 1
+
+/* Define to 1 if you have the `setresgid' function. */
+/* #undef HAVE_SETRESGID */
+
+/* Define to 1 if you have the `setresuid' function. */
+/* #undef HAVE_SETRESUID */
+
+/* Define to 1 if you have the `setreuid' function. */
+#define HAVE_SETREUID 1
+
+/* Define to 1 if you have the `setsid' function. */
+#define HAVE_SETSID 1
+
+/* Define to 1 if you have the `setvbuf' function. */
+#define HAVE_SETVBUF 1
+
+/* Define if there is a socklen_t type. If not, probably use size_t */
+#define HAVE_SOCKLEN_T 1
+
+/* Define to 1 if you have the `srand' function. */
+#define HAVE_SRAND 1
+
+/* Define to 1 if you have the `srand48' function. */
+#define HAVE_SRAND48 1
+
+/* Define to 1 if you have the `srandom' function. */
+#define HAVE_SRANDOM 1
+
+/* Define to 1 if the system has the type `ssize_t'. */
+#define HAVE_SSIZE_T 1
+
+/* Define to 1 if you have the `stat' function. */
+#define HAVE_STAT 1
+
+/* Define to 1 if you have the <stddef.h> header file. */
+#define HAVE_STDDEF_H 1
+
+/* Define to 1 if you have the <stdint.h> header file. */
+#define HAVE_STDINT_H 1
+
+/* Define to 1 if you have the <stdlib.h> header file. */
+#define HAVE_STDLIB_H 1
+
+/* Define to 1 if you have the `step' function. */
+/* #undef HAVE_STEP */
+
+/* Define to 1 if you have the `strchr' function. */
+#define HAVE_STRCHR 1
+
+/* Define to 1 if you have the `strdup' function. */
+#define HAVE_STRDUP 1
+
+/* Define to 1 if you have the `strerror' function. */
+#define HAVE_STRERROR 1
+
+/* Define to 1 if you have the `strerror_r' function. */
+#define HAVE_STRERROR_R 1
+
+/* Define to 1 if you have the <strings.h> header file. */
+#define HAVE_STRINGS_H 1
+
+/* Define to 1 if you have the <string.h> header file. */
+#define HAVE_STRING_H 1
+
+/* Define to 1 if you have the `strlcpy' function. */
+/* #undef HAVE_STRLCPY */
+
+/* Define to 1 if you have the `strptime' function. */
+#define HAVE_STRPTIME 1
+
+/* Define to 1 if the system has the type `struct cmsghdr'. */
+#define HAVE_STRUCT_CMSGHDR 1
+
+/* Define if there is a struct if_laddrconf. */
+/* #undef HAVE_STRUCT_IF_LADDRCONF */
+
+/* Define to 1 if the system has the type `struct in6_pktinfo'. */
+#define HAVE_STRUCT_IN6_PKTINFO 1
+
+/* Define to 1 if the system has the type `struct in_pktinfo'. */
+/* #undef HAVE_STRUCT_IN_PKTINFO */
+
+/* Define if there is a struct lifconf. */
+/* #undef HAVE_STRUCT_LIFCONF */
+
+/* Define to 1 if the system has the type `struct rt_msghdr'. */
+/* #undef HAVE_STRUCT_RT_MSGHDR */
+
+/* Define to 1 if the system has the type `struct sockaddr_storage'. */
+#define HAVE_STRUCT_SOCKADDR_STORAGE 1
+
+/* Define to 1 if `st_mtimensec' is a member of `struct stat'. */
+/* #undef HAVE_STRUCT_STAT_ST_MTIMENSEC */
+
+/* Define to 1 if `st_mtimespec.tv_nsec' is a member of `struct stat'. */
+/* #undef HAVE_STRUCT_STAT_ST_MTIMESPEC_TV_NSEC */
+
+/* Define to 1 if `st_mtim.tv_nsec' is a member of `struct stat'. */
+/* #undef HAVE_STRUCT_STAT_ST_MTIM_TV_NSEC */
+
+/* Define to 1 if you have the <sys/bswap.h> header file. */
+/* #undef HAVE_SYS_BSWAP_H */
+
+/* Define to 1 if you have the <sys/dir.h> header file, and it defines `DIR'.
+   */
+/* #undef HAVE_SYS_DIR_H */
+
+/* Define if sys_errlist in libc */
+/* #undef HAVE_SYS_ERRLIST */
+
+/* Define to 1 if you have the <sys/file.h> header file. */
+#define HAVE_SYS_FILE_H 1
+
+/* Define to 1 if you have the <sys/filio.h> header file. */
+/* #undef HAVE_SYS_FILIO_H */
+
+/* Define to 1 if you have the <sys/ndir.h> header file, and it defines `DIR'.
+   */
+/* #undef HAVE_SYS_NDIR_H */
+
+/* Define to 1 if you have the <sys/param.h> header file. */
+/* #undef HAVE_SYS_PARAM_H */
+
+/* Define to 1 if you have the <sys/select.h> header file. */
+#define HAVE_SYS_SELECT_H 1
+
+/* Define to 1 if you have the <sys/socket.h> header file. */
+#define HAVE_SYS_SOCKET_H 1
+
+/* Define to 1 if you have the <sys/sockio.h> header file. */
+/* #undef HAVE_SYS_SOCKIO_H */
+
+/* Define to 1 if you have the <sys/stat.h> header file. */
+#define HAVE_SYS_STAT_H 1
+
+/* Define to 1 if you have the <sys/time.h> header file. */
+#define HAVE_SYS_TIME_H 1
+
+/* Define to 1 if you have the <sys/types.h> header file. */
+#define HAVE_SYS_TYPES_H 1
+
+/* Define to 1 if you have the <sys/uio.h> header file. */
+#define HAVE_SYS_UIO_H 1
+
+/* Define to 1 if you have the `timegm' function. */
+/* #undef HAVE_TIMEGM */
+
+/* Define to 1 if you have the <time.h> header file. */
+#define HAVE_TIME_H 1
+
+/* Define to 1 if you have the <unistd.h> header file. */
+#define HAVE_UNISTD_H 1
+
+/* Define to 1 if you have the `unsetenv' function. */
+#define HAVE_UNSETENV 1
+
+/* Define to 1 if the system has the type `u_char'. */
+#define HAVE_U_CHAR 1
+
+/* Define to 1 if the system has the type `u_int'. */
+#define HAVE_U_INT 1
+
+/* Define to 1 if the system has the type `u_int16_t'. */
+/* #undef HAVE_U_INT16_T */
+
+/* Define to 1 if the system has the type `u_int32_t'. */
+/* #undef HAVE_U_INT32_T */
+
+/* Define to 1 if the system has the type `u_int8_t'. */
+/* #undef HAVE_U_INT8_T */
+
+/* Define to 1 if the system has the type `u_long'. */
+#define HAVE_U_LONG 1
+
+/* Define to 1 if you have the `vasprintf' function. */
+/* #undef HAVE_VASPRINTF */
+
+/* Define to 1 if you have the `vsnprintf' function. */
+#define HAVE_VSNPRINTF 1
+
+/* Define to 1 if you have the `vsprintf' function. */
+#define HAVE_VSPRINTF 1
+
+/* Define to 1 if the system has the type `__int128_t'. */
+#define HAVE___INT128_T 1
+
+/* Define to 1 if the system has the type `__uint128_t'. */
+#define HAVE___UINT128_T 1
+
+/* Define if errno.h declares perror */
+/* #undef HDR_HAS_PERROR */
+
+/* May need to be defined to enable IPv6 support, for example on IRIX */
+/* #undef INET6 */
+
+/* Define if MIT Project Athena default configuration should be used */
+/* #undef KRB5_ATHENA_COMPAT */
+
+/* Define for DNS support of locating realms and KDCs */
+#define KRB5_DNS_LOOKUP 1
+
+/* Define to enable DNS lookups of Kerberos realm names */
+/* #undef KRB5_DNS_LOOKUP_REALM */
+
+/* Define if the KDC should return only vague error codes to clients */
+/* #undef KRBCONF_VAGUE_ERRORS */
+
+/* define if the system header files are missing prototype for daemon() */
+#define NEED_DAEMON_PROTO 1
+
+/* Define if in6addr_any is not defined in libc */
+/* #undef NEED_INSIXADDR_ANY */
+
+/* define if the system header files are missing prototype for
+   ss_execute_command() */
+/* #undef NEED_SS_EXECUTE_COMMAND_PROTO */
+
+/* define if the system header files are missing prototype for strptime() */
+/* #undef NEED_STRPTIME_PROTO */
+
+/* define if the system header files are missing prototype for swab() */
+/* #undef NEED_SWAB_PROTO */
+
+/* Define if need to declare sys_errlist */
+/* #undef NEED_SYS_ERRLIST */
+
+/* define if the system header files are missing prototype for vasprintf() */
+/* #undef NEED_VASPRINTF_PROTO */
+
+/* Define if the KDC should use no lookaside cache */
+/* #undef NOCACHE */
+
+/* Define if references to pthread routines should be non-weak. */
+/* #undef NO_WEAK_PTHREADS */
+
+/* Define to the address where bug reports for this package should be sent. */
+#define PACKAGE_BUGREPORT "krb5-bugs@mit.edu"
+
+/* Define to the full name of this package. */
+#define PACKAGE_NAME "Kerberos 5"
+
+/* Define to the full name and version of this package. */
+#define PACKAGE_STRING "Kerberos 5 1.20"
+
+/* Define to the one symbol short name of this package. */
+#define PACKAGE_TARNAME "krb5"
+
+/* Define to the home page for this package. */
+#define PACKAGE_URL ""
+
+/* Define to the version of this package. */
+#define PACKAGE_VERSION "1.20"
+
+/* Define if setjmp indicates POSIX interface */
+#define POSIX_SETJMP 1
+
+/* Define if POSIX signal handling is used */
+#define POSIX_SIGNALS 1
+
+/* Define if termios.h exists and tcsetattr exists */
+#define POSIX_TERMIOS 1
+
+/* Define to necessary symbol if this constant uses a non-standard name on
+   your system. */
+/* #undef PTHREAD_CREATE_JOINABLE */
+
+/* Define as return type of setrpcent */
+#define SETRPCENT_TYPE void
+
+/* The size of `size_t', as computed by sizeof. */
+#define SIZEOF_SIZE_T 8
+
+/* The size of `time_t', as computed by sizeof. */
+#define SIZEOF_TIME_T 8
+
+/* Define to use OpenSSL for SPAKE preauth */
+/* #undef SPAKE_OPENSSL */
+
+/* Define for static plugin linkage */
+#define STATIC_PLUGINS 1
+
+/* Define to 1 if you have the ANSI C header files. */
+#define STDC_HEADERS 1
+
+/* Define to 1 if strerror_r returns char *. */
+/* #undef STRERROR_R_CHAR_P */
+
+/* Define if sys_errlist is defined in errno.h */
+/* #undef SYS_ERRLIST_DECLARED */
+
+/* Define if no TLS implementation is selected */
+#define TLS_IMPL_NONE 1
+
+/* Define if TLS implementation is OpenSSL */
+/* #undef TLS_IMPL_OPENSSL */
+
+/* Define if you have dirent.h functionality */
+#define USE_DIRENT_H 1
+
+/* Define if dlopen should be used */
+#define USE_DLOPEN 1
+
+/* Define if the keyring ccache should be enabled */
+/* #undef USE_KEYRING_CCACHE */
+
+/* Define if link-time options for library finalization will be used */
+/* #undef USE_LINKER_FINI_OPTION */
+
+/* Define if link-time options for library initialization will be used */
+/* #undef USE_LINKER_INIT_OPTION */
+
+/* Define if sigprocmask should be used */
+#define USE_SIGPROCMASK 1
+
+/* Define if wait takes int as a argument */
+#define WAIT_USES_INT 1
+
+/* Define to enable extensions in glibc */
+#define _GNU_SOURCE 1
+
+/* Define to enable C11 extensions */
+#define __STDC_WANT_LIB_EXT1__ 1
+
+/* Define to empty if `const' does not conform to ANSI C. */
+/* #undef const */
+
+/* Define to `int' if <sys/types.h> doesn't define. */
+/* #undef gid_t */
+
+/* Define to `__inline__' or `__inline' if that's what the C compiler
+   calls it, or to nothing if 'inline' is not supported under any name.  */
+#ifndef __cplusplus
+/* #undef inline */
+#endif
+
+/* Define to `int' if <sys/types.h> does not define. */
+/* #undef mode_t */
+
+/* Define to `long int' if <sys/types.h> does not define. */
+/* #undef off_t */
+
+/* Define to `long' if <sys/types.h> does not define. */
+/* #undef time_t */
+
+/* Define to `int' if <sys/types.h> doesn't define. */
+/* #undef uid_t */
+
+
+#if defined(__GNUC__) && !defined(inline)
+/* Silence gcc pedantic warnings about ANSI C.  */
+# define inline __inline__
+#endif
+#endif /* KRB5_AUTOCONF_H */
+

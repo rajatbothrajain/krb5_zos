@@ -12,6 +12,7 @@
 #endif
 #include <time.h>
 
+#include<stdint.h>
 #include "k5-gmt_mktime.h"
 
 #if !HAVE_TIMEGM || TEST_LEAP

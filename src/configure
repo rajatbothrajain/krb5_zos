@@ -6344,6 +6344,10 @@ case $host_os in
 #            endif
 
 _ACEOF
+
+
+ax_pthread_flags="-D_UNIX03_THREADS $ax_pthread_flags";
+
 if (eval "$ac_cpp conftest.$ac_ext") 2>&5 |
   $EGREP "AX_PTHREAD_ZOS_MISSING" >/dev/null 2>&1; then :
   { $as_echo "$as_me:${as_lineno-$LINENO}: WARNING: IBM z/OS requires -D_OPEN_THREADS or -D_UNIX03_THREADS to enable pthreads support." >&5
@@ -6446,7 +6450,7 @@ if test "x$ax_pthread_clang" = "xyes"; then
         # -pthread does define _REENTRANT, and while the Darwin headers
         # ignore this macro, third-party headers might not.)
 
-        PTHREAD_CFLAGS="-pthread"
+        PTHREAD_CFLAGS="-D_UNIX03_THREADS "
         PTHREAD_LIBS=
 
         ax_pthread_ok=yes
@@ -6906,6 +6910,7 @@ else
   THREAD_SUPPORT=0
 fi
 
+PTHREAD_CFLAGS="-D_UNIX03_THREADS"
 for ac_func in pthread_once pthread_rwlock_init
 do :
   as_ac_var=`$as_echo "ac_cv_func_$ac_func" | $as_tr_sh`

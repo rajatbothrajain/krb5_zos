@@ -389,7 +389,7 @@
 /* #undef HAVE_SECURE_GETENV */
 
 /* Define to 1 if you have the `setegid' function. */
-/* #undef HAVE_SETEGID */
+#define HAVE_SETEGID 1
 
 /* Define to 1 if you have the `setenv' function. */
 #define HAVE_SETENV 1
@@ -583,7 +583,7 @@
 #define HAVE_VSNPRINTF 1
 
 /* Define to 1 if you have the `vsprintf' function. */
-#define HAVE_VSPRINTF 1
+/* #undef HAVE_VSPRINTF */
 
 /* Define to 1 if the system has the type `__int128_t'. */
 #define HAVE___INT128_T 1

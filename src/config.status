@@ -433,7 +433,7 @@ Copyright (C) 2012 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/home/bothra/MyRepo/krb5_zos/src'
+ac_pwd='/home/bothra/MyRepo/krb5_rajat/src'
 srcdir='.'
 INSTALL='/c390/open-z/bin/install -c'
 AWK='gawk'
@@ -892,7 +892,7 @@ S["OBJLISTS"]="OBJS.ST"
 S["KRB5_VERSION"]="1.20"
 S["DL_LIB"]=""
 S["THREAD_SUPPORT"]="1"
-S["PTHREAD_CFLAGS"]="-Qunused-arguments -pthread"
+S["PTHREAD_CFLAGS"]="-D_UNIX03_THREADS"
 S["PTHREAD_LIBS"]=""
 S["PTHREAD_CC"]="ibm-clang64"
 S["ax_pthread_config"]=""
@@ -1075,7 +1075,6 @@ D["GETSOCKNAME_ARG3_TYPE"]=" socklen_t"
 D["GETPEERNAME_ARG3_TYPE"]=" GETSOCKNAME_ARG3_TYPE"
 D["HAVE_UNISTD_H"]=" 1"
 D["HAVE_FNMATCH_H"]=" 1"
-D["HAVE_VSPRINTF"]=" 1"
 D["HAVE_VSNPRINTF"]=" 1"
 D["HAVE_FNMATCH"]=" 1"
 D["HAVE_GETOPT"]=" 1"

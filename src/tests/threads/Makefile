@@ -8,12 +8,12 @@
 #  top_srcdir=../..
 # but these are only set by autoconf 2.53, and thus not useful to us on
 # macOS yet (as of 10.2):
-#  abs_srcdir=/home/bothra/MyRepo/krb5_zos/src/tests/threads
-#  abs_top_srcdir=/home/bothra/MyRepo/krb5_zos/src
+#  abs_srcdir=/home/bothra/MyRepo/krb5_rajat/src/tests/threads
+#  abs_top_srcdir=/home/bothra/MyRepo/krb5_rajat/src
 #  builddir=.
-#  abs_builddir=/home/bothra/MyRepo/krb5_zos/src/tests/threads
+#  abs_builddir=/home/bothra/MyRepo/krb5_rajat/src/tests/threads
 #  top_builddir=../..
-#  abs_top_builddir=/home/bothra/MyRepo/krb5_zos/src
+#  abs_top_builddir=/home/bothra/MyRepo/krb5_rajat/src
 # The "top" variables refer to the directory with the configure (or
 # config.status) script.
 
@@ -166,7 +166,7 @@ CXXFLAGS = -g -O2
 WARN_CFLAGS =  -Werror=unknown-warning-option -Wall -Wcast-align -Wshadow -Wmissing-prototypes -pedantic -Wno-format-zero-length -Woverflow -Wstrict-overflow -Wmissing-format-attribute -Wmissing-prototypes -Wreturn-type -Wmissing-braces -Wparentheses -Wswitch -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wunknown-pragmas -Wsign-compare -Wnewline-eof -Werror=uninitialized -Werror=pointer-arith -Werror=int-conversion -Werror=incompatible-pointer-types -Werror=implicit-int -Werror=declaration-after-statement -Werror-implicit-function-declaration
 WARN_CXXFLAGS =  -Wall -Wcast-align -Wshadow
 ASAN_FLAGS = 
-PTHREAD_CFLAGS = -Qunused-arguments -pthread
+PTHREAD_CFLAGS = -D_UNIX03_THREADS
 PTHREAD_LIBS = 
 THREAD_LINKOPTS = $(PTHREAD_CFLAGS) $(PTHREAD_LIBS)
 CPPFLAGS = 
